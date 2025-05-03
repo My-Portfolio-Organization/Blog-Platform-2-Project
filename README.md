@@ -1,2 +1,2 @@
-# Blog-Platform-2-Project
+# Blog-Platform
 App for sharing and viewing posts
